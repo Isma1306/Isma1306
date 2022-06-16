@@ -1,4 +1,6 @@
 
-Hello! 
+##Hello! 
 
-I am a frontend developer with experience in CSS and HTML looking to improve my skills in JS.
+I am a web developer and here are some of the projects that I have been working on lately!
+
+Feel free to reach me!
